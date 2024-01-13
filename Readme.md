@@ -8,12 +8,12 @@ To run this project :
 
 Backend routes:
 
-Signup :            (POST)   "/api/signup" 
-Login :             (POST)   "/api/login"
-All Users:          (GET)    "/"
-All Tasks By User:  (GET)    "/"
-Task Details:       (GET)    "/:taskId"
-Create Task:        (POST)   "/"
-Update Task:        (PATCH)  "/:taskId"
-Update Task Status: (PATCH)  "/:taskId/status"
-Delete Task:        (DELETE) "/:taskId"           
+1. Signup :            (POST)   "/api/signup"
+2. Login :             (POST)   "/api/login"
+3. All Users:          (GET)    "/"
+4. All Tasks By User:  (GET)    "/"
+5. Task Details:       (GET)    "/:taskId"
+6. Create Task:        (POST)   "/"
+7. Update Task:        (PATCH)  "/:taskId"
+8. Update Task Status: (PATCH)  "/:taskId/status"
+9. Delete Task:        (DELETE) "/:taskId"           
